@@ -1,0 +1,10 @@
+C:\Users\Peter\AppData\Local\Temporary Projects\WZ All in one console\bin\Release\WZ All in one console.exe
+C:\Users\Peter\AppData\Local\Temporary Projects\WZ All in one console\bin\Release\WZ All in one console.pdb
+C:\Users\Peter\AppData\Local\Temporary Projects\WZ All in one console\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Peter\AppData\Local\Temporary Projects\WZ All in one console\obj\x86\Release\WZ All in one console.exe
+C:\Users\Peter\AppData\Local\Temporary Projects\WZ All in one console\obj\x86\Release\WZ All in one console.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\WZ All in one console\WZ All in one console\obj\x86\Release\WZ All in one console.exe
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\WZ All in one console\WZ All in one console\obj\x86\Release\WZ All in one console.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\WZ All in one console\WZ All in one console\bin\Release\WZ All in one console.exe
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\WZ All in one console\WZ All in one console\bin\Release\WZ All in one console.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\WZ All in one console\WZ All in one console\obj\x86\Release\ResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Peter\AppData\Local\Temporary Projects\WZ All in one console\bin\Debug\WZ All in one console.exe
+C:\Users\Peter\AppData\Local\Temporary Projects\WZ All in one console\bin\Debug\WZ All in one console.pdb
+C:\Users\Peter\AppData\Local\Temporary Projects\WZ All in one console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\AppData\Local\Temporary Projects\WZ All in one console\obj\x86\Debug\WZ All in one console.exe
+C:\Users\Peter\AppData\Local\Temporary Projects\WZ All in one console\obj\x86\Debug\WZ All in one console.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\WZ All in one console\WZ All in one console\bin\Debug\WZ All in one console.exe
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\WZ All in one console\WZ All in one console\bin\Debug\WZ All in one console.pdb
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\WZ All in one console\WZ All in one console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\WZ All in one console\WZ All in one console\obj\x86\Debug\WZ All in one console.exe
+C:\Users\Peter\Documents\Visual Studio 2010\Projects\WZ All in one console\WZ All in one console\obj\x86\Debug\WZ All in one console.pdb
+C:\Users\Vextor\Documents\Visual Studio 2010\Projects\IVIodernsstuff\WZ All in one console\obj\x86\Debug\WZ All in one console.exe
+C:\Users\Vextor\Documents\Visual Studio 2010\Projects\IVIodernsstuff\WZ All in one console\obj\x86\Debug\WZ All in one console.pdb
+C:\Users\Vextor\Documents\Visual Studio 2010\Projects\IVIodernsstuff\WZ All in one console\bin\Debug\WZ All in one console.exe
+C:\Users\Vextor\Documents\Visual Studio 2010\Projects\IVIodernsstuff\WZ All in one console\bin\Debug\WZ All in one console.pdb
+C:\Users\Vextor\Documents\Visual Studio 2010\Projects\IVIodernsstuff\WZ All in one console\obj\x86\Debug\WZ All in one console.csprojResolveAssemblyReference.cache
