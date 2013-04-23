@@ -20,8 +20,11 @@ namespace WZ_All_in_one_console
             Console.WriteLine("What Application would you like to open?");
             Console.WriteLine("The variables are");
             Console.WriteLine("1) WZ RCON Client");
-            Console.WriteLine("2) Remote Desktop");
-            if (Console.ReadLine() == "1")
+            Console.WriteLine("2) Demo Uploader");
+            Console.WriteLine("3) Remote Desktop");
+
+            string readline = Console.ReadLine(); 
+            if (readline == "1")
             {
                 // tries to launch the program, does catch if it can't
                 try
@@ -63,9 +66,73 @@ namespace WZ_All_in_one_console
 
                
             }
+
+            if (readline == "2")
+            {
+                // tries to launch the program, does catch if it can't
+                try
+                {
+                    Process.Start(@"wzsoftware\emoUploader2.exe");
+                    Console.WriteLine("Use your WarZone Gaming credentials to logon.");
+                    Console.ReadKey();
+                }
+
+                catch
+                {
+                    // pointing the obvious
+                    Console.WriteLine("You don't have the Demo Uploader client installed.");
+
+                    Directory.CreateDirectory(@"wzsoftware\");
+
+                    Console.WriteLine("Downloading the Demo Uploader tool...");
+
+                    WebClient webClient = new WebClient();
+
+
+                    webClient.DownloadFile("http://warzone-gaming.co.uk/downloads/DemoUploader2.exe", @"wzsoftware\DemoUploader2.exe");
+
+                    Console.WriteLine("Download Complete, launching now.");
+
+
+                    // once it's downloaded, launch it 
+
+                    Process.Start(@"wzsoftware\DemoUploader2.exe");
+                    Console.WriteLine("Use your WarZone Gaming credentials to logon.");
+                    Console.ReadKey();
+
+
+
+
+
+                }
+
+
+
+            }
+
+            if (readline == "3")
+            {
+
+                try
+                {
+                    Process.Start("mstsc.exe");
+                    Console.WriteLine("Remote Desktop Launched, now launching the thread with logon details.");
+                    Process.Start("http://warzone-gaming.co.uk/forums/index.php?/topic/4715-rcon-firewall-access-v20/");
+                    Console.ReadKey(); 
+
+                }
+                catch
+                {
+                    Console.WriteLine("Outdated operating system. Must be Vista or higher.");
+                    Console.ReadKey(); 
+                }
+            } 
+
+
             else
             {
-                Console.WriteLine("Wrong!"); 
+                Console.WriteLine("Only choose 1 or 2! Relaunch the client!");
+                Console.ReadKey();
 
             }
            

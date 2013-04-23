@@ -13,3 +13,8 @@ C:\Users\Vextor\Documents\Visual Studio 2010\Projects\IVIodernsstuff\WZ All in o
 C:\Users\Vextor\Documents\Visual Studio 2010\Projects\IVIodernsstuff\WZ All in one console\bin\Debug\WZ All in one console.exe
 C:\Users\Vextor\Documents\Visual Studio 2010\Projects\IVIodernsstuff\WZ All in one console\bin\Debug\WZ All in one console.pdb
 C:\Users\Vextor\Documents\Visual Studio 2010\Projects\IVIodernsstuff\WZ All in one console\obj\x86\Debug\WZ All in one console.csprojResolveAssemblyReference.cache
+C:\Users\Vextor\Documents\GitHub\WZAllInOneConsole\WZ All in one console\obj\x86\Debug\WZ All in one console.exe
+C:\Users\Vextor\Documents\GitHub\WZAllInOneConsole\WZ All in one console\obj\x86\Debug\WZ All in one console.pdb
+C:\Users\Vextor\Documents\GitHub\WZAllInOneConsole\WZ All in one console\bin\Debug\WZ All in one console.exe
+C:\Users\Vextor\Documents\GitHub\WZAllInOneConsole\WZ All in one console\bin\Debug\WZ All in one console.pdb
+C:\Users\Vextor\Documents\GitHub\WZAllInOneConsole\WZ All in one console\obj\x86\Debug\WZ All in one console.csprojResolveAssemblyReference.cache
